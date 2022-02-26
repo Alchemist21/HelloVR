@@ -12,7 +12,7 @@ export default class HelloVR extends React.Component {
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
           <Text style={styles.greeting}>
-         Welcome to EXHLO
+        Excited for MIT Reality Hack 2022
           </Text>
         </View>
       </View>
