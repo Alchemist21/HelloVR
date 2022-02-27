@@ -12,7 +12,31 @@ export default class HelloVR extends React.Component {
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
           <Text style={styles.greeting}>
-        Welcome 
+        Louell Sala
+          </Text>
+          <Text>
+           NextJS || React 360
+          </Text>
+          <Text>
+          TailwindCss 
+          </Text>
+        </View>
+
+           <View style={styles.greetingBox}>
+          <Text style={styles.greeting}>
+         Hackathons
+          </Text>
+          <Text>
+            MIT Hacking Medicine
+          </Text>
+          <Text>
+            EthGlobal 2021 Winner
+          </Text>
+          <Text>
+            ChainLink Hackathon 2021 Winner
+          </Text>
+            <Text>
+            EthDenver 2021 Winner
           </Text>
         </View>
       </View>
