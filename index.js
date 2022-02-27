@@ -12,7 +12,7 @@ export default class HelloVR extends React.Component {
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
           <Text style={styles.greeting}>
-        Excited for MIT Reality Hack 2022
+        Welcome 
           </Text>
         </View>
       </View>
@@ -26,8 +26,8 @@ const styles = StyleSheet.create({
     width: 1000,
     height: 600,
     backgroundColor: 'rgba(255, 255, 255, 0.4)',
-    justifyContent: 'center',
-    alignItems: 'center',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
   },
   greetingBox: {
     padding: 20,
