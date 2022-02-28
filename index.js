@@ -22,16 +22,16 @@ export default class HelloVR extends React.Component {
           </Text>
          
            <Text>
-          I love working with NFTs,
+          Web Developer working with Startups
           </Text>
            <Text>
-           Digital Identity, Metaverse, AR/VR,
+            on NFTs, Digital Identity,
           </Text>
           <Text>
-           Defi's and DAOs
+           Metaverse,AR/VR, 
           </Text>
            <Text>
-           Hackathons and
+           Defi's and DAOs, Hackathons and
           </Text>
            <Text>
           Iterating Startup Problems
@@ -40,12 +40,9 @@ export default class HelloVR extends React.Component {
 
            <View style={styles.greetingBox}>
           <Text style={styles.greeting}>
-         Hackathons
+           Hackathons
           </Text>
        
-          <Text>
-            MIT Hacking Medicine Winner
-          </Text>
           <Text>
             EthGlobal 2021 Winner
           </Text>
@@ -56,13 +53,16 @@ export default class HelloVR extends React.Component {
             EthDenver 2021 Winner
           </Text>
             <Text>
-            MIT Hacking Racism Winner
+            MIT Hacking Racism 2020 Winner
+          </Text>
+          <Text> 
+            NYC Gotham DLT 2019 Winner
           </Text>
             <Text>
-            NYC Techstars Winner
+            NYC Techstars 2018 Winner
           </Text>
           <Text>
-            NYC Gotham DLT Winner
+            MIT Hacking Medicine 2018 Winner 
           </Text>
         </View>
       </View>
