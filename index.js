@@ -28,13 +28,13 @@ export default class HelloVR extends React.Component {
             on NFTs, Digital Identity,
           </Text>
           <Text>
-           Metaverse,AR/VR, 
+           Metaverse, AR/VR, 
           </Text>
            <Text>
            Defi's and DAOs, Hackathons and
           </Text>
            <Text>
-          Iterating Startup Problems
+          Creating Solutions for StartUps
           </Text>
         </View>
 
